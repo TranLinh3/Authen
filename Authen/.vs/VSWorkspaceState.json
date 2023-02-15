@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\obj",
+    "\\obj\\Release",
+    "\\obj\\Release\\net6.0",
+    "\\obj\\Release\\net6.0\\ref",
+    "\\Properties",
+    "\\Views",
+    "\\Views\\Exams",
+    "\\wwwroot",
+    "\\wwwroot\\css",
+    "\\wwwroot\\js",
+    "\\wwwroot\\lib"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
